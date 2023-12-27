@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	//std::cout<<"test"<<endl;
-	cout<<((char)(48))<<endl;
+	string s = "test1234";
+	cout<<s.substr(1,1);
 }
