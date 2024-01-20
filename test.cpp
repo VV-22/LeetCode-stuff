@@ -1,7 +1,9 @@
 #include <iostream>
+#include <stack>
 using namespace std;
 int main()
 {
 	string s = "test1234";
-	cout<<s.substr(1,1);
+	stack<int> test1;
+	cout<<test1.top();
 }
