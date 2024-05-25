@@ -33,3 +33,6 @@ class Solution
         return;
     }
 }
+
+
+//redo this in c++ with vector int properly :)
